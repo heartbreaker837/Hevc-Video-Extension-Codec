@@ -196,4 +196,4 @@ This repository serves as the official landing page for HEVC Video Extension Cod
 **Get the most recent version of HEVC Video Extension Codec today!**
 
 ---
-**Last updated:** 2026-11-14 09:40:36 UTC
+**Last updated:** 2026-11-14 16:17:00 UTC
